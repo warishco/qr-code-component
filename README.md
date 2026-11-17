@@ -29,7 +29,7 @@ responsive design.
 
 - Solution URL:
   [https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-6XJZJZJZJ](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-6XJZJZJZJ)
-- Live Site URL:
+- Live Site URL: https://qr-code-card.surge.sh/
 
 ## My process
 
